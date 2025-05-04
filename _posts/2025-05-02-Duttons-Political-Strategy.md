@@ -1,4 +1,5 @@
-# Dutton's Political Strategy
+Dutton's Political Strategy
+===========================
 
 Federal Election 2025 is just around the corner and for those not in a swing seat with every square metre filled with corflutes and some volunteer accused of campaign malpractice or being a Chinese spy, it's been a pretty tame affair. It seems that four leader debates and a month of 90-minutes Insiders episodes on the ABC aren't enough to engage those in between holidays and more interested/shocked by the theatre of Trump.
 
