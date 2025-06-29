@@ -3,6 +3,8 @@ Dutton's Political Strategy
 
 Federal Election 2025 is just around the corner and for those not in a swing seat with every square metre filled with corflutes and some volunteer accused of campaign malpractice or being a Chinese spy, it's been a pretty tame affair. It seems that four leader debates and a month of 90-minutes Insiders episodes on the ABC aren't enough to engage those in between holidays and more interested/shocked by the theatre of Trump.
 
+test
+
 Most polling/analysis/opinion/betting markets expect a return to Labor in either a minority or majority form. I have no reason to stray from this view: given historical and current trends it's unlikely Dutton will win, even with the thin margins at play. Most traditional news media commentators and mastheads have ruled him out. 
 
 What I've been more interested in is Dutton's political strategy and how it's developed throughout this term and campaign. With some bold maneuvering prior to the election Dutton has been able to control a lot of the debate from opposition, to the point that nuclear energy is now an actual debating point and the Voice is currently buried (but not dead). A part of me wanted to see what Dutton would do in this campaign to win and overcome the structural weaknesses within his party, something that hadn't been stress-tested until now. It appears that he hasn't been able to defeat these challenges, as we see from the party wide gaps in policy detail, rhetorical inconsistencies, and general underperformance.
