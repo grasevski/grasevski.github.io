@@ -7,7 +7,13 @@
   </head>
   <body>
     <nav class="navbar" role="navigation" aria-label="main-navigation">
-      <div class="navbar-menu">
+      <div class="navbar-brand">
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+      </div>
+      <div id="navbarMenu" class="navbar-menu">
         <div class="navbar-start">
           {% for page in site.html_pages %}
           <a class="navbar-item" href="{{ page.url | relative_url }}">{{ page.title }}</a>
@@ -29,5 +35,15 @@
       {{ content }}
     </main>
     <footer><a href="mailto:chucameron@gmail.com">Cameron Chu</a></footer>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const burger = document.querySelector('.navbar-burger');
+        const menu = document.getElementById(burger.dataset.target);
+        burger.addEventListener('click', () => {
+          burger.classList.toggle('is-active');
+          menu.classList.toggle('is-active');
+        });
+      });
+    </script>
   </body>
 </html>
